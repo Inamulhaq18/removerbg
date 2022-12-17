@@ -1,4 +1,3 @@
--U --no-cache-dir gdown --pre
 streamlit
 requests
 s3fs
