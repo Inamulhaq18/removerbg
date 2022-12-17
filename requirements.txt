@@ -1,9 +1,8 @@
-streamlit
-s3fs
-boto3==1.21.32
-botocore==1.24.32
-sqlalchemy==1.4.32
-psycopg2-binary
-streamlit-aggrid
-aiohttp==3.8.1
 rembg
+streamlit
+streamlit-aggrid
+s3fs
+boto3
+botocore
+sqlalchemy
+psycopg2-binary
