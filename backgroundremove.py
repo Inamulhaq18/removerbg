@@ -4,6 +4,7 @@ from PIL import Image
 from io import BytesIO
 import base64
 import requests
+import urllib.request
 import streamlit as st 
 from rembg import remove
 
