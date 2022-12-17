@@ -1,3 +1,4 @@
+urllib3
 rembg
 streamlit
 streamlit-aggrid
