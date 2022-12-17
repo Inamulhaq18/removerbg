@@ -5,7 +5,6 @@ import psycopg2
 from st_aggrid import AgGrid
 import time
 import requests
-import heroku3
 from bgremovepid import bgprocess
 
 
