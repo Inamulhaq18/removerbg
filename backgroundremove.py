@@ -54,4 +54,5 @@ def removebgapi(links):
 #     st.write("-18")
 #     imot = Image.open(BytesIO(base64.b64decode(opimg)))
     st.write("-19")
+    
     return(imot)
